@@ -1,0 +1,4 @@
+SKU,Type,Cost,Quantity (g),Vegan/Non-Vegan,Gluten-Free/Non-Gluten-Free,ImagePath
+Diet Coke,Dairy,$2.49,150,Non-Vegan,Gluten-Free,/Users/ameyamorbale/Documents/CMU/Fall_2023/LLM/Project/Dataset/Images/image_0.jpg
+Nature's Own whole wheat bread,Bread,$2.99,680,Non-Vegan,Gluten-Free,/Users/ameyamorbale/Documents/CMU/Fall_2023/LLM/Project/Dataset/Images/image_1.jpg
+Cheetos Flaming Hot,Fruit,$3.99,454,Non-Vegan,Gluten-Free,/Users/ameyamorbale/Documents/CMU/Fall_2023/LLM/Project/Dataset/Images/image_2.jpg
